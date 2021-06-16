@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    /* padding: 5;
+    margin: 0; */
+}
+
+body{
+    background: rgb(199, 191, 191);
+}
+.headerDesign{
+    background-color: rgb(78, 82, 82);
+    color: white;
+    padding: 5px 10px ;
+}
+.steveImg{
+    width: 650px;
+    
+}
+
+
+.text1 p{
+    font-style: italic;
+    padding: 0px 65px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;    
+  }
+
+  table{
+     width: 100%;
+  }
+  .logoSize {
+      
+      background-color: rgb(14, 12, 12);
+        
+  }
+  .logoMain{
+    width: 100px;
+  }
